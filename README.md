@@ -1,4 +1,4 @@
-# 💼 Venkata Sai Mrudula – Portfolio Website
+# 💼 Venkata Sai Mrudula – Portfolio Website ------live url---->  https://kvsmrudula.github.io/mrudula_portfolio-/
 
 This is a modern, responsive single-page portfolio website built using **HTML, Tailwind CSS**, and **JavaScript**. It features a clean Bolt-style layout, interactive sections, a 3D model (Three.js), and contact capabilities.
 
